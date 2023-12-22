@@ -15,10 +15,6 @@
 
 <http://example.com/>
 
-### **Ссылка на материалы проекта и отчет**
-
-<http://example.com/>
-
 ### **Ссылка на видеоотчет на YouTube**
 
 <http://example.com/>

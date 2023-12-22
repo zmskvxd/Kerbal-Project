@@ -7,4 +7,4 @@
 - Арсланов Ян Альфредович - Программист, KSP
 
 ### **Модель ракеты создана в конструкторе Kerbal Space Program**
-Файл с моделью [ракеты](https://www.example.com)
+Файл с моделью [ракеты](https://github.com/zmskvxd/Kerbal-Project/blob/main/Falcon_9.craft)

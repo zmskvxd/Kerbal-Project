@@ -1,4 +1,4 @@
-### Решение задачи Ламберта
+# Решение задачи Ламберта
 
 Данный код реализует решение задачи Ламберта для миссии межпланетного перелета с Земли на Венеру.
 Импортируются необходимые модули и классы из библиотек astropy, poliastro и matplotlib.
@@ -83,4 +83,7 @@ for i in a:
         )
 plt.show()
 ```
+### Ниже приведена траектория полета
+![](https://github.com/zmskvxd/Pictures/blob/main/trajectory.jpg)
+
 Исходный код [тут](https://github.com/zmskvxd/Kerbal-Project/blob/main/Programming/Lambert's%20problem.py)

@@ -84,6 +84,7 @@ for i in a:
 plt.show()
 ```
 ### Ниже приведена траектория полета
-![](https://github.com/zmskvxd/Pictures/blob/main/trajectory.jpg)
+![image](https://github.com/zmskvxd/Kerbal-Project/assets/154624315/b9a325e7-57b9-4e48-adf7-70b14102acea)
+
 
 Исходный код [тут](https://github.com/zmskvxd/Kerbal-Project/blob/main/Programming/Lambert's%20problem.py)

@@ -77,7 +77,7 @@ for time in theoretical_time:
 
     # Расчет текущей силы лобового сопротивления
     current_drag_force = calculate_drag_force(atmosphere_density, speed, midel_area)
-    # Расчет высоты
+    # Расчет изменения скорости
     dv = (thrust - current_drag_force - current_rocket_mass * g(height)) / current_rocket_mass * dt
 
     # Расчет новой скорости

@@ -27,7 +27,7 @@
 
 ### **Ссылка на видеоотчет на YouTube**
 
-<http://example.com/>
+<https://www.youtube.com/watch?v=81qf4RWuqY0>
 
 ### **Ссылка на оригинал отчета**
 

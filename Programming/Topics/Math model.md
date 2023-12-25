@@ -95,7 +95,7 @@ for time in theoretical_time:
     # Расчет новой скорости
     previous_speed = speed
     speed = previous_speed + dv
-    # Расчет высоты полета
+    # Расчет изменения скорости
     height = height + previous_speed * dt
     theoretical_height.append(height)
 ```

@@ -23,7 +23,7 @@
 
 ### **Ссылка на материалы проекта и отчет**
 
-<http://example.com/>
+<https://drive.google.com/drive/folders/1EXCdFR7VGX0mfNhT5khbbOigo4VnuUwT?usp=sharing>
 
 ### **Ссылка на видеоотчет на YouTube**
 
@@ -31,4 +31,4 @@
 
 ### **Ссылка на оригинал отчета**
 
-<http://example.com/>
+<https://drive.google.com/file/d/1kkqMD2Bi27BTJ20wYZmOX5SailqaSYQW/view?usp=sharing>
